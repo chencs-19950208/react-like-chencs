@@ -1,0 +1,38 @@
+{
+  "name": "react-like-chencs",
+  "version": "1.0.0",
+  "description": "类react 框架",
+  "typings": "types/chencs.d.ts",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --open --mode development"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chencs-19950208/react-like-chencs.git"
+  },
+  "keywords": [
+    "chencs-react"
+  ],
+  "author": "chencs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chencs-19950208/react-like-chencs/issues"
+  },
+  "homepage": "https://github.com/chencs-19950208/react-like-chencs#readme"
+}
